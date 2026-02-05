@@ -101,5 +101,5 @@ Me chamo Gustavo Crispim, tenho 20 anos e sou natural de Santa catarina. Conclu�
 <br/>
 
 ### 📊 Estatísticas
-[![Gustavo GitHub stats](https://github-readme-stats.vercel.app/api?username=GuCrispim)](https://github.com/GuCrispim/github-readme-stats)
+[![Gustavo GitHub stats](https://github-readme-stats.vercel.app/api?username=GuCrispim)](https://github.com/anuraghazra/github-readme-stats)
 
