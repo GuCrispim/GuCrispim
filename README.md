@@ -100,6 +100,3 @@ Me chamo Gustavo Crispim, tenho 20 anos e sou natural de Santa catarina. Conclu�
 <br/>
 <br/>
 
-### 📊 Estatísticas
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=GuCrispim&layout=compact&theme=tokyonight)
-
