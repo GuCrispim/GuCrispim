@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Gustavo Crispim, tenho 20 anos e sou natural de Santa catarina. Concluí o ensino médio no UFC, com o curso técnico em informática. Atualmente, estou cursando Atecnologias da Informação e Comunicação na UFSC.
+Me chamo Gustavo Crispim, tenho 20 anos e sou natural de Santa catarina. Concluí o ensino médio no UFC, com o curso técnico em informática. Atualmente, estou cursando Tecnologias da Informação e Comunicação na UFSC.
 
 ---
 
